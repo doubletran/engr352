@@ -1,6 +1,7 @@
 ---
 layout: people
 title: About
+permalink: /about/
 profiles:
   - image: miguel.png
     content: Hi, my name is Miguel 20 years old and I’m a 3rd year mechanical engineer with a CS minor. With this project I aim to learn more about programming and other art related topics. I’ve created video games in the past and have been an officer of the Video Game Development Club and am used to working in a team. I overall want to contribute to a project that gives people a new perspective on what digital art can be. I hope to learn a lot!
