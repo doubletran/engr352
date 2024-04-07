@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1>Meet the team</h1>
+<div class="gallery">
+
+
+
+    {% if page.profiles %}
+
+    {% for profile in page.profiles %}
+    <div class="card">
+      
+      <img src='../assets/img/about/{{profile.image}}' alt={{profile.image}}>
+      <p> {{profile.content}}</p>
+    </div>
+    {% endfor %}
+    {% endif %}
+ 
+</div>
