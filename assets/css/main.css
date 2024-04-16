@@ -31,6 +31,7 @@
   --light: rgba(195, 221, 255, 0.738);
 }
 
+
 /*  ----- Viewport ----- elements inherited by all remaining elements ----- */
 body {
   /* Can alternatively define in html {} or :root {} */
@@ -40,7 +41,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Roboto Mono', monospace;
-  font-size: 70%;
+
+ 
   margin: 2%;
   color: white;
 
@@ -72,7 +74,9 @@ main {
   background-color: rgba(115, 115, 181, 0.335);
  margin:2%;
   padding: 2%;
-  align-items: center;
+  font-size:80%;
+  justify-content: center;
+  text-align: center;
 
 }
 .card img {
@@ -83,11 +87,20 @@ main {
 }
 section {
 }
-.concept article {
+ article {
+
+
   border: 2px solid var(--dark);
   padding: 2%;
-  margin: 2% 2% 0 27%;
-  padding: 2%;
+  width:60%;
+  margin: auto;
+ 
+}
+article p{
+  font-size: 110%;
+}
+.post-meta{
+  align-self: left;
 }
 #topic1 {
 }
@@ -110,26 +123,32 @@ footer {
 a {
 }
 a:link {
+  color:var(--medium)
 }
 a:hover {
 }
 a:active {
 }
 a:visited {
+  color:var(--light)
 }
 
 /*  ----- Navigation ----- Override text links for navigation only.  */
 nav {
   font-family: 'Orbitron', sans-serif;
-  width:100%;
+  width:50%;
   
 }
 nav a {
   text-decoration: none;
+
   background-color: var(--light);
   padding:10px;
 
   margin: 10px 0;
+}
+nav a:link, nav a:visited{
+  color:var(--dark);
 }
 nav a:active {
   background: var(--light);
@@ -189,11 +208,19 @@ h6 {
 h1 {
   font-size: 300%;
 }
-h2 {
+h2{
   font-family: 'Orbitron', sans-serif;
   text-align: center;
+  letter-spacing: 0.3cap;
 }
+.post-link, .post-link:visited{
+  color:white;
+  font-size: 150%;
+}
+
 h3 {
+
+
 }
 h4 {
 }
