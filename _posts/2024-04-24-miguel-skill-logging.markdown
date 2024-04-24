@@ -7,15 +7,14 @@ date:   2024-04-24
 ---
 
 ### What I learned
-•	(20 points) Brief reflection/recountment of what you learned (200 words maximum). Specifically, you will likely need to do independent reading/searching to learn some of these new skills. Where did you look, and what did you read or learn about? Include references as appropriate, and make sure the writing is in your own words.
-•	(15 points) Artifact related to what you learned (i.e., an image or video from your specific efforts). Note that this should be captured by you and not (for example) media copied from a tutorial that you used.
+During this project phase, I learned to use TouchDesigner for projecting on spherical surfaces, drawing on resources like TouchDesigner documentation and community guides. These helped me understand spatial mapping and synchronization, essential for managing visual alignments. This knowledge was vital in translating theoretical concepts into practical application, supporting our project's technical needs.
+
 ![image](/engr352/assets/img/mig/touchDesignerImg.png)
 
 ### What I made
-•	(20 points) Brief reflection/recountment of what you made (200 words maximum). For example, you might have tried making art in a new style or using a new software, learned a new makerspace skill, written code in a new language, etc. Tell me about this process.
-•	(15 points) Artifact related to what you made (same instructions/stipulations as for the first mentioned artifact). Building on the previously mentioned examples, you might have produced/shared a final art piece, taken a video of part of the process or snapshot of the final product, or made a screen recording of you running your code for the first time, for example.
+I developed a TouchDesigner control system to precisely manage multiple projectors via a separate monitor interface. This required iterative testing for accurate synchronization. The interface includes tools for adjusting projection parameters like edge blending and keystone correction on a spherical surface. Initially tested in simulations, the system was later trialed with actual projectors, providing critical practical insights.
 
 ### Connection to the project
-•	(15 points) Tie this effort back into the class by briefly describing how it connects to the course topic and your team's project (150 words maximum).
+I developed skills in TouchDesigner for our class project, which aims to project realistic imagery onto a weather balloon, simulating Earth. These advanced projection mapping techniques are essential for creating an immersive visual experience and adjusting to different lighting conditions and viewing angles during live presentations.
 
 ---
