@@ -2,7 +2,7 @@
 layout: post
 title:  "Skill Logging 1"
 author: "Tran Tran"
-date:   2024-04-24 12:00:00 -0700
+date:   2024-04-24
 
 ---
 
