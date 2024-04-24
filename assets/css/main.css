@@ -63,6 +63,12 @@ header h1{
 header {
 
 }
+img{
+  max-width:500px;
+  display:block;
+  padding:10px;
+  margin: auto;
+}
 main {
   background-color: var(--light);
   width: 100%;
@@ -78,6 +84,7 @@ main {
   justify-content: center;
   text-align: center;
 
+
 }
 .card img {
   width: 200px;
@@ -85,6 +92,7 @@ main {
   margin: 0 auto;
   border-radius: 50%;
 }
+
 section {
 }
  article {
@@ -358,6 +366,7 @@ object {
   flex-flow: row wrap;
   justify-content: center;
 }
+
 
 .floatright {
 }
