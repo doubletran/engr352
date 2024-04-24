@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Skill Logging 1"
+title:  "Steve Log 1"
 author: "Steve"
 date:   2024-04-24
 
