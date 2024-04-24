@@ -9,7 +9,7 @@ date:   2024-04-24
 ### What I learned
 •	(20 points) Brief reflection/recountment of what you learned (200 words maximum). Specifically, you will likely need to do independent reading/searching to learn some of these new skills. Where did you look, and what did you read or learn about? Include references as appropriate, and make sure the writing is in your own words.
 •	(15 points) Artifact related to what you learned (i.e., an image or video from your specific efforts). Note that this should be captured by you and not (for example) media copied from a tutorial that you used.
-![image](/assets/img/tran/geogebra.png)
+![image](/engr352/assets/img/tran/geogebra.png)
 
 ### What I made
 •	(20 points) Brief reflection/recountment of what you made (200 words maximum). For example, you might have tried making art in a new style or using a new software, learned a new makerspace skill, written code in a new language, etc. Tell me about this process.
