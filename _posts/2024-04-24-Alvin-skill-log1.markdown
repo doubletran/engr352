@@ -18,6 +18,6 @@ Somethings I learned in the process are the operators’ functions, buttons, and
 <img width="500" alt="Screenshot 2024-04-24 191706" src="https://github.com/doubletran/engr352/assets/168025283/19bd0005-9512-4d1e-9720-eedeffb880f7">
 
 ### Relation
-All these efforts tie back to the class as this application can be used to create a variety of visual arts of different shapes and patterns. This can help with the project as I want to learn how I can make clouds and hurricane patterns for the earth model. I want it have as much realism as possible, and to do so, there should be cloud formation and weather.
+All these efforts tie back to the class as this application can be used to create a variety of visual arts of different shapes and patterns. This can help with the project as I want to learn how I can make clouds and hurricane patterns for the earth model. I want it have as much realism as possible, and to do so, there should be cloud formation and weather. these formation should also move and behave randomly to show the random weather than a pattern of predictable movements.
 
 ---
