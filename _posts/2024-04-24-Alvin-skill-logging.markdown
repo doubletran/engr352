@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Engineering Creative Collaboration: Project Overview"
+title:  "Skill Log"
 date:   2024-04-15 12:00:00 -0700
 
 ---
