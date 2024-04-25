@@ -30,6 +30,9 @@ Our project will be showcased in a dimly-lit room during the art walk in Week 7,
 Stay tuned for more updates as we continue to develop our project. We look forward to sharing our journey and the final piece with you during the upcoming exhibition.
 
 ### Gallery
-*Here, images and videos of the project development and testing phases can be included to visually engage the audience and give them a sneak peek into the creation process.*
+<img width="947" alt="Screenshot 2024-04-24 192232" src="https://github.com/doubletran/engr352/assets/168025283/a370f7d5-2fc1-432c-9fee-62cf40b2d2ec">
+<img width="942" alt="Screenshot 2024-04-24 191706" src="https://github.com/doubletran/engr352/assets/168025283/19bd0005-9512-4d1e-9720-eedeffb880f7">
+
+
 
 ---
