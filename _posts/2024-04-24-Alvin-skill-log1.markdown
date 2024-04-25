@@ -1,5 +1,5 @@
 ---
-layout: post
+Name: Alvin Zhen
 title:  "Skill Log1"
 date:   2024-04-24 
 
