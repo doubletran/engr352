@@ -9,7 +9,7 @@ date:   2024-05-01
 Unity is a game engine tool that allows me to simulate the projection with the encoded mathematical formula. The engine has its library built on top of the C# language utilizing object-oriented programming. Although I don't have any experience with C# before, it is easy to learn with previous programming experiences. 
 The main GUI has 5 main components: the hierarchy, the view, the inspector, the project window, and the console. The hierarchy lists all the game objects such as the camera, light source, and other custom game objects. After clicking on a game object, the inspector will show an editor where developers can edit anything related to that object such as changing position, applying material, or adding C# script. Once a script is used, developers can press the play button to enter play mode. In this mode, the game scene will show exactly how the scene is from the camera position and angle. Furthermore, any errors will be printed in the console at runtime. 
 Below is the sample main UI of Unity:
-![[Unity screenshot](/engr352/assets/img/tran/unity.png)
+![Unity screenshot](/engr352/assets/img/tran/unity.png)
 
 ### Simulate projection mapping and UV mapping in Unity
 Building onto the math for projection mapping, I wrote a function to create an image to be projected onto a sphere. 
@@ -92,7 +92,7 @@ Then, I wrote a function getImage() to spawn a new texture file and apply it to 
   </code>
 </pre>
 
-And here is the result (not as expected):
+#### Here is the result (not as expected):
 ![Unity screenshot](/engr352/assets/img/tran/first_result.png)
 
 ### Connection to the project
