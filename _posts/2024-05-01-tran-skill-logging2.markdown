@@ -52,7 +52,8 @@ Then, I wrote a function getImage() to spawn a new texture file and apply it to 
                     //get coordinate of the projected image;
                     //CenterLine is a line connecting light, image's center and sphere origin
                     float distOfPt_CenterLine = Mathf.Sqrt(Mathf.Pow(y, 2) + Mathf.Pow(z, 2));
-                    //the two triangles are similar : (LIGHT, SPHERE ORIGIN, POINT ON SPHERE) and (LIGHT, IMAGE CENTER, PROJECTED POINT ON IMAGE)
+                    //the two triangles are similar :
+              //(LIGHT, SPHERE ORIGIN, POINT ON SPHERE) and (LIGHT, IMAGE CENTER, PROJECTED POINT ON IMAGE)
 
                     float distOfProjPt_Center = distOfPt_CenterLine / (LIGHT_TO_SPHERE - x) * LIGHT_TO_IMAGE;
                     float angleOfProjPt_ZAxis = Mathf.Atan(y / z);
@@ -77,18 +78,13 @@ Then, I wrote a function getImage() to spawn a new texture file and apply it to 
                         v = map(v, 1, texture.height);
                         //get color of the texture by the coordinate
                         Color color = texture.GetPixel((int)u, (int)v);
-                        Debug.Log($"Coordinate: {x} {y} {z} -> {u} {v} at {i} {j}\n Angle: {angleOfProjPt_ZAxis} Dist: { distOfProjPt_Center}");
-
                         projected.SetPixel((int)i, (int)j, new Color(0, 0,  1, 1));
                     }
                 }
 
             }
         }
-        return imgVertices;
-
     }
-    
   </code>
 </pre>
 
