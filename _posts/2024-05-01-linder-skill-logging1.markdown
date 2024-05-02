@@ -12,7 +12,7 @@ Today I learned how to use SOPs, which are basically 3D model generators and edi
 ![Color](/engr352/assets/img/steve/Art3.png)
 
 ### What I made
-After my findings on color, I decided to use the same hyperbolic spiraling pattern with a very basic model editor, and it looked something like the poles of the Earth being physically twisted.
+After my findings on color, I decided to use the same hyperbolic spiraling pattern with a very basic model editor, and it looked something like the poles of the Earth being physically twisted. It doesn't really show this due to being a screenshot, but it was cool.
 
 ![Hyperbolic Spiral](/engr352/assets/img/steve/Art4.png)
 
