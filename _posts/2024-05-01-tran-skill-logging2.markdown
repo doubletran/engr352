@@ -33,7 +33,7 @@ Then, I wrote a function getImage() to spawn a new texture file and apply it to 
         const int TEXTURE_SIZE = HALF_TEXTURE_SIZE * 2;
         Texture2D projected = new Texture2D(TEXTURE_SIZE, TEXTURE_SIZE);
         GameObject image = GameObject.Find("Plane");
-        image.GetComponent<Renderer>().material.mainTexture = projected;
+        image.GetComponent&lt;Renderer&gt;().material.mainTexture = projected;
 
         //get all vertices for x >= 0
 
