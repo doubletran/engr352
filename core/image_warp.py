@@ -82,9 +82,9 @@ if __name__ == "__main__":
     bge = stretchFactor/4
     bf = (bge*stretchFactor) / 100
     
-    image_folder = "image_assets/"
+    image_pth = "core\image_assets\earthView1.png"
     
     # actual running the thing
-    warped_image = warp_image(image_folder + "earthView1.png", bulge_factor=-bf, bulge_exponent=bge, scale_down_factor=1.01)
+    warped_image = warp_image(image_pth, bulge_factor=-bf, bulge_exponent=bge, scale_down_factor=1.01)
     imgName = "newGrid" + str(count_files_in_folder()) + ".png"
     warped_image.save(imgName)
