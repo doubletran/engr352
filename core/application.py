@@ -48,7 +48,7 @@ if __name__ == '__main__':
     image_1_path = 'core\image_assets\earthView1.png'
     image_2_path = 'core\image_assets\earthView2.png'
     
-    # Warp the images
+    # Warp the images - not sustainable method
     
     # just place holder variable names, i kinda don't know what they do
     stretchFactor = 6.5
