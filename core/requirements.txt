@@ -1,3 +1,6 @@
 numpy
 Pillow
 PyQt5
+shapely
+geopandas
+matplotlib

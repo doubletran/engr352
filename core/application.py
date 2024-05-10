@@ -51,7 +51,7 @@ if __name__ == '__main__':
     # Warp the images - not sustainable method
     
     # just place holder variable names, i kinda don't know what they do
-    stretchFactor = 6.5
+    stretchFactor = 8
     bge = stretchFactor/4
     bf = (bge*stretchFactor) / 100
     warped_image_1 = iw.warp_image(image_1_path, bulge_factor=-bf, bulge_exponent=bge, scale_down_factor=1.01)
