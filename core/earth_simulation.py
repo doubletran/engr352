@@ -1,4 +1,3 @@
-#not working yet
 import numpy as np
 import geopandas as gpd
 from shapely.geometry import Polygon, MultiPolygon
@@ -65,6 +64,17 @@ class EarthSimulation:
         vertices = np.array(vertices, dtype=np.float32)
         indices = np.array(indices, dtype=np.uint32)
 
+        # Return vertices and indices for later use
+        return vertices, indices
+
+    def initialize_elements(self, vertices, indices):
+        """
+        Initializes Earth elements after the OpenGL context is available.
+
+        Args:
+            vertices (np.array): The vertex data.
+            indices (np.array): The index data.
+        """
         # Shader code
         vertex_shader = """
         #version 330 core
@@ -78,8 +88,9 @@ class EarthSimulation:
         fragment_shader = """
         #version 330 core
         out vec4 FragColor;
+        uniform vec4 color;  // Make sure this uniform is declared
         void main() {
-            FragColor = vec4(0.5, 0.7, 0.5, 1.0);  // Earth color
+            FragColor = color;  // Use the color uniform
         }
         """
 
@@ -126,6 +137,10 @@ class EarthSimulation:
 
         # Initialize OpenGL
         OpenGLHelpers.initialize_opengl()
+
+        # Load geographic data and initialize Earth elements
+        vertices, indices = self.load_geographic_data("https://raw.githubusercontent.com/johan/world.geo.json/master/countries.geo.json")
+        self.initialize_elements(vertices, indices)
 
         while not glfw.window_should_close(window):
             # Render here
