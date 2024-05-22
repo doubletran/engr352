@@ -3,6 +3,7 @@ layout: post
 title:  "Skill Logging 3: Data visualization"
 author: "Tran Tran"
 date:   2024-05-22
+youtubeId: "https://youtu.be/zGdoAXNVI34"
 ---
 
 ## GIS data visualization
@@ -21,7 +22,7 @@ I applied the same method to visualize wildfire dataset accumulated over 7 days 
 
 
 #### Here is the result:
-![wildfire](/engr352/assets/img/tran/wildfire.png)
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### Connection to the project
 During my presentation about this visualization to people who went to the public art walk, most of the reactions I received were concerns, surprises. Though this exaggerate what is happening over the red color or the size of the dot, it achieves its purpose of reminding people what could be happening.
