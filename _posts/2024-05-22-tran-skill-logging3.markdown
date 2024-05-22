@@ -3,7 +3,8 @@ layout: post
 title:  "Skill Logging 3: Data visualization"
 author: "Tran Tran"
 date:   2024-05-22
-youtubeId: "https://youtu.be/zGdoAXNVI34"
+
+youtubeId: "https://www.youtube.com/watch?v=zGdoAXNVI34"
 ---
 
 ## GIS data visualization
