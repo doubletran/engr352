@@ -26,7 +26,7 @@ Drawing inspiration from Galileo’s groundbreaking "Moon watercolors," and Éti
 
 ![image](/engr352/assets/img/mig/touchDesignerImg.png)
 ![image](/engr352/assets/img/mig/mainApp.png)
-![image](/engr352/assets/img/mig/arcGis.png)
+![hurricane](/engr352/assets/img/tran/hurricane.png)
 
 ### User Evaluation Methods
 Instead of formal surveys, our evaluation approach relied on informal conversations and observations during the presentation of the project. This method allowed for spontaneous and genuine feedback, capturing the immediate reactions and interactions of the viewers with the exhibit.
