@@ -9,6 +9,7 @@ date:   2024-06-05
 Experience "Space Walk," a unique visual installation showcasing Earth as never seen before. Using advanced projection technology, this exhibit casts dynamic representations of Earth, including normal and wildfire data overlays, onto a spherical medium. This setup invites viewers on a contemplative journey through the art of data visualization, engaging them with the planet's beauty and environmental complexities.
 
 ![image](/engr352/assets/img/mig/finalEarth.png)
+![image](/engr352/assets/img/mig/ourEarthPrototype.png)
 
 ### Cultural Concept
 "Space Walk" engages viewers by visually representing Earth in a manner that echoes humanity’s enduring fascination with celestial observation. Historically, artists and scientists like Galileo Galilei and Étienne Léopold Trouvelot have transformed celestial observation into art, making the cosmos more accessible and stimulating public curiosity. Our project seeks to continue this tradition by using modern technology to portray Earth, aiming to deepen public engagement with our planet's visual and environmental narratives.
