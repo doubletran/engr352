@@ -16,6 +16,7 @@ As part of my learning experience with GitHub, I worked on creating a team websi
 
 
 (15 points) Artifact related to what you made (same instructions/stipulations as for the first mentioned artifact). Building on the previously mentioned examples, you might have produced/shared a final art piece, taken a video of part of the process or snapshot of the final product, or made a screen recording of you running your code for the first time, for example.
+![Screenshot 2024-06-13 153656](https://github.com/doubletran/engr352/assets/146215674/b5ee7cdd-8faa-4d07-95fc-205f615311f8)
 
 
 (15 points) Tie this effort back into the class by briefly describing how it connects to both the course topic and your team's project (150 words maximum).
