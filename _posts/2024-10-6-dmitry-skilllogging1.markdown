@@ -1,8 +1,10 @@
-Dmitry Froemke
+---
+layout: post
+title:  "Dmitry Froemke Log 1"
+author: "Dmitry"
+date:   2024-04-23
 
-4/23/24
-
-Skill Logging 1
+---
 
 (20 points) Brief reflection/recountment of what you learned (200 words maximum). Specifically, you will likely need to do independent reading/searching to learn some of these new skills. Where did you look, and what did you read or learn about? Include references as appropriate, and make sure the writing is in your own words.
 	
@@ -23,3 +25,5 @@ What I made was a globe with different inputs which changed the way it looks. Fo
 (15 points) Tie this effort back into the class by briefly describing how it connects to the course topic and your team's project (150 words maximum).
 
 This connects to our team's topic as we are going to project these visual designs onto a 3d globe in the end for our final visual presentation. So by doing this I am preparing for the final project. The meaning behind our project is just to show our world and focus on the environmental impacts that surround us.
+
+---
