@@ -9,12 +9,16 @@ Skill Logging 1
  The skill I really sat down to learn was TouchDesigner. Touchdesigner is an application which uses node based programming to create interesting visuals. This correlates with our project as we will be using a sphere to display our own version of the globe. What helped me   learn the software was watching this tutorial series on youtube. This series had 24 videos introducing Touchdesinger, all of which built on eachother showing the ropes. Here is the link to the video series:Advanced AI Capabilities (youtube.com).
 
 (15 points) Artifact related to what you learned (i.e., an image or video from your specific efforts). Note that this should be captured by you and not (for example) media copied from a tutorial that you used.
+![Screenshot 2024-06-10 144234](https://github.com/doubletran/engr352/assets/146215674/94f7a330-05cc-4049-a52a-175acba2b6e0)
+
 
 (20 points) Brief reflection/recountment of what you made (200 words maximum). For example, you might have tried making art in a new style or using a new software, learned a new makerspace skill, written code in a new language, etc. Tell me about this process.
 
 What I made was a globe with different inputs which changed the way it looks. For example you can input a color overlay which inputs a color gradation over the globe. The way I got the globe into the software was just downloading a model and dragging and dropping it in. The software was pretty easy and  straightforward to use which just let me experiment a lot more. 
 
 (15 points) Artifact related to what you made (same instructions/stipulations as for the first mentioned artifact). Building on the previously mentioned examples, you might have produced/shared a final art piece, taken a video of part of the process or snapshot of the final product, or made a screen recording of you running your code for the first time, for example.
+
+![Screenshot 2024-06-10 144245](https://github.com/doubletran/engr352/assets/146215674/df36f4da-0215-4faf-b50d-c7775b4a65e1)
 
 (15 points) Tie this effort back into the class by briefly describing how it connects to the course topic and your team's project (150 words maximum).
 
