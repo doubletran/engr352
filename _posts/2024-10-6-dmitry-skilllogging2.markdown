@@ -1,4 +1,9 @@
-Dmitry Froemke
+---
+Name: Dmitry Froemke
+title:  "Dmitry Froemke Skill Log 2"
+date:   2024-05-01 
+
+---
 
 (20 points) Brief reflection/recountment of what you learned (200 words maximum). Specifically, you will likely need to do independent reading/searching to learn some of these new skills. Where did you look, and what did you read or learn about? Include references as appropriate (you should have at least one in most cases), and make sure the writing is in your own words. For the purposes of this assignment, it is not sufficient to learn without external resources.
 
@@ -18,3 +23,5 @@ Going into this I had never used a projector before, only having limited experie
 (15 points) Tie this effort back into the class by briefly describing how it connects to both the course topic and your team's project (150 words maximum).
 
 This ties in to the team as it is the core of our project, it's what we've focused on the whole time and is the main attention grabber. We want to create an immersive experience where you're almost sucked into the globe, and the dynamic visual displays are part of that. As this class is Creative Collaboration, this does tie in requiring the whole team to set it up, it also has some meaning as all good art projects should have focusing on the environment and bringing notice to it.
+
+---
