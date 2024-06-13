@@ -12,6 +12,7 @@ What I learned this past week was the setup of the projectors and balloon. In th
 https://www.youtube.com/watch?v=80IIaEB-lDM
 
 (15 points) Artifact related to what you learned (i.e., an image or video from your specific efforts). Note that this should be captured by you and not (for example) images copied from a tutorial that you used. This part should capture your attempt to follow or digest the learning material in some way (for example, a screenshot or photo showing your own work beside a tutorial page, a photo of you attending a relevant crafting workshop, etc.).
+![image](https://github.com/doubletran/engr352/assets/146215674/48c33d11-8283-41a1-a6b9-cf017b0fa6c7)
 
 (20 points) Brief reflection/recountment of what you made (200 words maximum). For example, you might have tried making art in a new style or using a new software, learned a new makerspace skill, written code in a new language, etc. Tell me about this process.
 
@@ -19,6 +20,7 @@ Going into this I had never used a projector before, only having limited experie
 
 
 (15 points) Artifact related to what you made (same instructions/stipulations as for the first mentioned artifact). Building on the previously mentioned examples, you might have produced/shared a final art piece, taken a video of part of the process or snapshot of the final product, or made a screen recording of you running your code for the first time, for example.
+![image](https://github.com/doubletran/engr352/assets/146215674/62f9fe96-c5b8-484c-8c77-513d423aa1b0)
 
 (15 points) Tie this effort back into the class by briefly describing how it connects to both the course topic and your team's project (150 words maximum).
 
